@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\whatt\Documents\GitHub\CSV-File-Project\CSV_project\Source.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\whatt\Documents\GitHub\CSV-File-Project\CSV_project\Source.cpp(11,6): warning C4101: 'array2d': unreferenced local variable
+  CSV_project.vcxproj -> C:\Users\whatt\Documents\GitHub\CSV-File-Project\x64\Debug\CSV_project.exe
